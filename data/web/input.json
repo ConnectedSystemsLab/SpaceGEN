@@ -1,0 +1,11 @@
+[
+    {"pfd": "./web/pfds/MEX_web/pfd.txt", "popsz": "./web/pfds/MEX_web/popularity_sz.txt"},
+    {"pfd": "./web/pfds/DFW_web/pfd.txt", "popsz": "./web/pfds/DFW_web/popularity_sz.txt"},
+    {"pfd": "./web/pfds/ATL_web/pfd.txt", "popsz": "./web/pfds/ATL_web/popularity_sz.txt"},
+    {"pfd": "./web/pfds/IAD_web/pfd.txt", "popsz": "./web/pfds/IAD_web/popularity_sz.txt"},
+    {"pfd": "./web/pfds/EWR_web/pfd.txt", "popsz": "./web/pfds/EWR_web/popularity_sz.txt"},
+    {"pfd": "./web/pfds/LON_web/pfd.txt", "popsz": "./web/pfds/LON_web/popularity_sz.txt"},
+    {"pfd": "./web/pfds/FRA_web/pfd.txt", "popsz": "./web/pfds/FRA_web/popularity_sz.txt"},
+    {"pfd": "./web/pfds/VIE_web/pfd.txt", "popsz": "./web/pfds/VIE_web/popularity_sz.txt"},
+    {"pfd": "./web/pfds/IST_web/pfd.txt", "popsz": "./web/pfds/IST_web/popularity_sz.txt"}
+]

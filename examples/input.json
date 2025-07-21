@@ -1,0 +1,11 @@
+[
+    {"pfd": "~/PFDs_Download_Traffic/pfds/MEX/pfd.txt", "popsz": "~/PFDs_Download_Traffic/pfds/MEX/popularity_sz.txt"},
+    {"pfd": "~/PFDs_Download_Traffic/pfds/DFW/pfd.txt", "popsz": "~/PFDs_Download_Traffic/pfds/DFW/popularity_sz.txt"},
+    {"pfd": "~/PFDs_Download_Traffic/pfds/ATL/pfd.txt", "popsz": "~/PFDs_Download_Traffic/pfds/ATL/popularity_sz.txt"},
+    {"pfd": "~/PFDs_Download_Traffic/pfds/IAD/pfd.txt", "popsz": "~/PFDs_Download_Traffic/pfds/IAD/popularity_sz.txt"},
+    {"pfd": "~/PFDs_Download_Traffic/pfds/EWR/pfd.txt", "popsz": "~/PFDs_Download_Traffic/pfds/EWR/popularity_sz.txt"},
+    {"pfd": "~/PFDs_Download_Traffic/pfds/LON/pfd.txt", "popsz": "~/PFDs_Download_Traffic/pfds/LON/popularity_sz.txt"},
+    {"pfd": "~/PFDs_Download_Traffic/pfds/FRA/pfd.txt", "popsz": "~/PFDs_Download_Traffic/pfds/FRA/popularity_sz.txt"},
+    {"pfd": "~/PFDs_Download_Traffic/pfds/VIE/pfd.txt", "popsz": "~/PFDs_Download_Traffic/pfds/VIE/popularity_sz.txt"},
+    {"pfd": "~/PFDs_Download_Traffic/pfds/IST/pfd.txt", "popsz": "~/PFDs_Download_Traffic/pfds/IST/popularity_sz.txt"}
+]
