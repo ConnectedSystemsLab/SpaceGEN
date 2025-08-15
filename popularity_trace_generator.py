@@ -132,10 +132,6 @@ class CorrelatedTraceGenerator():
                 self.__traceFD[idx].write(f"0:{objID}:{sizeList[idx][objID]}\n")
             self.__traceFD[idx].close()
             trace.clear()
-        # for epoch in range(traceSize):
-        #     # For every location generates one trace
-        #     for locationidx in range(self.__traceLocNum):
-        #         objID, pop, sz = self.__sample(locationidx, self.__pops[locationidx], self.__popszs[locationidx], correlationbuffer)
     
     def __gen_leaves(self, trace, sizes: dict, popularities: dict, printBox = None, items=None, initial_times=None):
         """
