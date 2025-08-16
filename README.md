@@ -1,7 +1,7 @@
 # SpaceGEN
 SpaceGEN is a tool used to generate content popularity correlated synthetic CDN traces. It yields high fidelity traces that satisfy cache-level and object-level properties comparing to the original traces. SpaceGEN originated from SIGCOMM 2025 paper: StarCDN: Moving Content Delivery Networks to Space.
 ```
-@inproceedings{karger1997consistent,
+@inproceedings{starcdn,
   title={StarCDN: Moving Content Delivery Networks to Space},
   author={William X. Zheng, Aryan Taneja, Maleeha Masood, Anirudh Sabnis, Ramesh K. Sitaraman, and Deepak Vasisht},
   series={SIGCOMM 2025},
