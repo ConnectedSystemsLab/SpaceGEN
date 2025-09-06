@@ -8,6 +8,8 @@ SpaceGEN is a tool used to generate content popularity correlated synthetic CDN 
   year={2025}
 }
 ```
+## Updates
+We are working on releasing traces that we use in our evaluation for easier access.
 
 ## 1. Installation
 This repository uses python3.9+. To install dependendies run:
@@ -15,7 +17,7 @@ This repository uses python3.9+. To install dependendies run:
 ## 2. Run SpaceGEN 
 
 ### 2.1 Prepare Statistics
-SpaceGEN requires two statistics computed from the production traces: popularity footprint descriptor (pFD) and global popularity distribution (GPD). We have provided these two statistics for web, video, and donwload traffics from Akamai's production traces in `./data`. Alternatively, users can also generate their own pFD and GPD. The generation tool for pFD can be found in JEDI's repository [link](). The script used to compute GPD can be found in `./scripts`.
+SpaceGEN requires two statistics computed from the production traces: popularity footprint descriptor (pFD) and global popularity distribution (GPD). We have provided these two statistics for web, video, and donwload traffics from Akamai's production traces in `./data`. Alternatively, users can also generate their own pFD and GPD. The generation tool for pFD can be found in JEDI's repository [link](https://github.com/UMass-LIDS/Jedi). The script used to compute GPD can be found in `./scripts`.
 
 ### 2.2 Generating Synthetic Traces
 Import the trace generator module and run the trace generation using the codes below (example codes and input file available in ./examples). The parameter passed into the run function is the minimum objects that will be generated for the server with least traffic pressure.
